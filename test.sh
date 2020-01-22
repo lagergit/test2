@@ -1,3 +1,3 @@
 #!/bin/ksh
 
-print hello there 
+print hello there. How 
